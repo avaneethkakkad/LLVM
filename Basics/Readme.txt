@@ -24,3 +24,4 @@ Hello world of LLVM
 1.clang -S -emit-llvm hello_world.cpp -o hello_world.ll
 2.Verify functional correctness using lli (LLVM interpreter for execution )
 3.llvm-dis to convert bytecode to human readable format 
+
