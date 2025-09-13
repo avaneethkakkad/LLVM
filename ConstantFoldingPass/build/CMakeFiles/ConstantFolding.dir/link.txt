@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -shared  -o libConstantFolding.so CMakeFiles/ConstantFolding.dir/ConstantFolding.cpp.o 
