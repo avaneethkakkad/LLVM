@@ -1,0 +1,6 @@
+/home/avaneeth/LLVM/ConstantFoldingPass/build/CMakeFiles/intrinsics_gen.dir
+/home/avaneeth/LLVM/ConstantFoldingPass/build/CMakeFiles/omp_gen.dir
+/home/avaneeth/LLVM/ConstantFoldingPass/build/CMakeFiles/acc_gen.dir
+/home/avaneeth/LLVM/ConstantFoldingPass/build/CMakeFiles/ConstantFolding.dir
+/home/avaneeth/LLVM/ConstantFoldingPass/build/CMakeFiles/edit_cache.dir
+/home/avaneeth/LLVM/ConstantFoldingPass/build/CMakeFiles/rebuild_cache.dir
